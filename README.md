@@ -10,7 +10,7 @@ This xkcd password generator can be used to generate an xkcd style password cons
 
 ----
 ## Demo
-Please watch the Jing screencast video here http://screencast.com/t/xad2f23842. 
+Please watch the Jing screencast video here http://screencast.com/t/3SURl2y3Jy
 
 ----
 ## Details for teaching team
